@@ -1,14 +1,14 @@
 [
 {
-"txn_date": "2022-02-09",
-"province": "กระบี่",
-"new_case": 84,
-"total_case": 14574,
-"new_case_excludeabroad": 84,
-"total_case_excludeabroad": 14352,
-"new_death": 3,
-"total_death": 73,
-"update_date": "2022-02-09 07:25:02"
+txn_date: "2022-02-09",
+province: "กระบี่",
+new_case: 84,
+total_case: 14574,
+new_case_excludeabroad: 84,
+total_case_excludeabroad: 14352,
+new_death: 3,
+total_death: 73,
+update_date: "2022-02-09 07:25:02"
 },
 {
 txn_date: "2022-02-09",
